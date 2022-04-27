@@ -3,7 +3,8 @@ show_me_them_cookies
 
 Apple Binary Cookie Parser with additional parsing options
 
-Tested on iOS 13.x-15.x
+Tested on iOS 13.x-15.x.
+
 Requires Pandas. This can be installed using 'pip install pandas'
 
 You will need to extract the Cookies.binarycookies file from the Apple device.
