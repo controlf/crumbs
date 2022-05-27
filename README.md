@@ -13,5 +13,7 @@ If you are generating a dataframe you will need to install Pandas. This can be i
 You will need to extract the Cookies.binarycookies file from the Apple device.
 
 Instructions: 
+
 For a CSV:            'python crumbs.py -i Cookies.binarycookies -o csv'
+
 For a Dataframe:      'python crumbs.py -i Cookies.binarycookies -o df'
